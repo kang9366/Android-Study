@@ -7,4 +7,7 @@ fun main(){
     println("My name is $name I'm 25.")
     //띄어쓰기를 하고 싶지 않다면 {}사용
     println("My name is ${name}I'm 25.")
+
+    //escape sequence
+    println("This is 2\$")
 }
