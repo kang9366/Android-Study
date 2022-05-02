@@ -2,4 +2,4 @@
 
 * [컬렉션]()
 * [생성자(주생성자,constructor,init)]()
-* [AndroidManifest.xml]()
+* [AndroidManifest.xml](https://velog.io/@jjung/AndroidManifest.xml-이란-cczwkwxi)
