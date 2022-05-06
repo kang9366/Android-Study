@@ -6,7 +6,7 @@
 * [상속과 인터페이스](https://velog.io/@kang9366/코틀린-상속과-인터페이스)
 
 ## Android UI
-* [xml함수](https://velog.io/@jjung/AndroidManifest.xml-이란-cczwkwxi)
+* [xml 함수](https://velog.io/@jjung/AndroidManifest.xml-이란-cczwkwxi)
 * [layout]()
 * [padding과 margin]()
 * [match_parent와 wrap_content]()
