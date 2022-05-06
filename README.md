@@ -18,5 +18,5 @@ layout_marginStart, layout_marginEnd --> 사용x
 
 ![99766D33599708831E](https://user-images.githubusercontent.com/63611804/167216889-a147fa2d-4125-40db-9f88-8859d5516e39.jpeg)   
 >
-margin : 테두리로부터 부모 객체 사이의 여백 --> component 외부의 여백
+margin : 테두리로부터 부모 객체 사이의 여백 --> component 외부의 여백   
 padding : 테두리로부터 content사이의 여백 --> component 내부의 여백
