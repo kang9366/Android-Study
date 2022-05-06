@@ -8,7 +8,7 @@
 
 ## xml
 * [xml함수](https://velog.io/@jjung/AndroidManifest.xml-이란-cczwkwxi)
-* [Android layout]()
+* [layout]()
 * [padding과 margin]()
 
 ## Android 구성
