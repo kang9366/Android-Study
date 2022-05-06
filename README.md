@@ -13,4 +13,5 @@
 
 ## Android 구성
 * [AndroidManifest.xml](https://velog.io/@jjung/AndroidManifest.xml-이란-cczwkwxi)
+* [gradle]()
 
