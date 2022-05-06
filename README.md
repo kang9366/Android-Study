@@ -1,7 +1,3 @@
-<div align="center">
-![unnamed](https://user-images.githubusercontent.com/63611804/167218342-1fa1be49-4aef-4297-a917-77fb10f2ad8c.jpg)
-</div>
-
 ## Kotlin
 
 * [안드로이드 개발자용 공식문서](https://developer.android.com)
