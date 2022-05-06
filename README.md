@@ -8,6 +8,10 @@
 ## Android UI
 * [xml 함수](https://velog.io/@jjung/AndroidManifest.xml-이란-cczwkwxi)
 * [layout]()
+  * [Linear Layout]()
+  * [Relativa Layout]()
+  * [Constraint Layout]()
+  * [Frame Layout]() 
 * [padding과 margin]()
 * [match_parent와 wrap_content]()
 
