@@ -1,16 +1,45 @@
-//제너릭 : 다양한 타입의 객체들을 다룬느 메서드나 컬렉션 클래스에서 컴파일 시에 타입을 체크해주는 기능
-//제너릭은 만들기 어렵고 실제로 만들일이 거의 없기 때문에 사용하는 방법만 숙지하면 된다.
+//lambda
+//람다식은 value처럼 다룰 수 있는 익명함수이다.
+//1. 함수를 메소드의 파라미터로 넘겨줄 수 있다.
+//2. 함수를 함수의 return값으로 사용할 수 있다.
+
+//람다의 기본 형식
+//val lambdaName : Type = {argmentList -> codeBody}
+
+val square : (Int) -> (Int) = {number -> number*number}
+//input과 return값의 타입은 생략 가능
+val nameAge = {name: String, age: Int -> "My name is $name and I'm $age"}
+
+//람다의 return
+val calculateGrade: (Int) -> String = {
+    when(it){
+        in 0..40 -> "fail"
+        in 41..70 -> "pass"
+        in 71..100 -> "perfect"
+        else -> "Error"
+    }
+}
+
+//람다를 표현하는 여러가지 방법
+fun invokeLambda(lambda: (Double) -> Boolean): Boolean{
+    return lambda(5.37)
+}
+
+
+//확장함수
+val pizzaIsGreat : String.() -> String = {
+    this + "Pizza is the best!"
+}
 
 fun main(){
-    //제너릭을 사용하지 않는 경우 --> 형변환을 해야한다.
-    val list1 = listOf(1, 2, 3, "가")
-    val b: String = list1[2].toString() //형변환
+    //람다
+    println(square(10))
+    println(nameAge("kang", 25))
+    println(calculateGrade(97))
 
-    //제너릭을 사용하는 경우 --> 타입이 안전하다.
-    val list2 = listOf<String>("a", "b", "c")
-    val c: String = list2[2] //String이라는 것을 보장받는다.
-
-    //강한 타입을 체크할 수 있다.
-    val list3 = listOf(1, 2, 3, 4, "가", "나", 3.0)
-    val list4 = listOf<Int>(1, 2, 3, "가") //강한 타입체크
+    //확장함수
+    val a = "kim said "
+    val b = "lee said "
+    println(a.pizzaIsGreat())
+    println(b.pizzaIsGreat())
 }
