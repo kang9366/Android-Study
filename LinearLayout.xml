@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 부모의 gravity에 따라 자식의 위치가 결정된다.
+LinearLayout : 수직 or 수평으로 component를 쌓아가는 디자인 방식 -->
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center|top"
+    tools:context=".MainActivity">
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="vertical orientation"
+        android:gravity="center"
+        android:textSize="30sp"
+        android:background="#C59494"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Hello World!"
+        android:textSize="20sp"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Hello World!"
+        android:layout_gravity="right"
+        android:textSize="20sp"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <ImageView
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:background="@color/black"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Hello World!"
+        android:textSize="50sp"
+        android:background="@color/purple_200"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="vertical orientation"
+        android:gravity="center"
+        android:textSize="30sp"
+        android:background="#C59494"/>
+
+    <!-- 가로로 배치 -->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="horizontal">
+
+        <TextView
+            android:layout_weight="1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="50sp"
+            android:background="@color/teal_200"
+            android:text="1"/>
+
+        <TextView
+            android:layout_weight="1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="50sp"
+            android:background="@color/purple_500"
+            android:text="2"/>
+
+        <TextView
+            android:layout_weight="1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="50sp"
+            android:background="#CC4DBB"
+            android:text="3"/>
+
+        <TextView
+            android:layout_weight="1"
+
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="50sp"
+            android:background="#DAC503"
+            android:text="4"/>
+
+    </LinearLayout>
+
+    <!--
+    match_parent : 부모의 가로, 세로폭에 크기를 맞춘다.(최상위 클래스는 디바이스의 크기에 맞춘다.)
+    wrap_content : 내용물을 감쌀 수 있는 가로폭과 세로폭을 크기로 설정한다.
+    -->
+
+</LinearLayout>
