@@ -14,6 +14,7 @@
   * [Frame Layout]() 
 * [padding과 margin]()
 * [match_parent와 wrap_content]()
+* [dp, dpi](https://velog.io/@kang9366/길이-단위)
 
 ## Android
 * [안드로이드 생명주기]()
