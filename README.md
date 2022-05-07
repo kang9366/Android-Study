@@ -17,13 +17,10 @@
 * [dp, dpi](https://velog.io/@kang9366/길이-단위)
 * [gravity, layout_gravity](https://velog.io/@kang9366/gravity와-layoutgravity)
 
-## Android
-* [안드로이드 생명주기]()
-* 
-
 ## Android 구성
 * [AndroidManifest.xml](https://velog.io/@jjung/AndroidManifest.xml-이란-cczwkwxi)
 * [build.gradle]()
 * [res]()
 * [gradle-wrapper.properties]()
 * [proguard-rules.pro]()
+* [안드로이드 생명주기]()
