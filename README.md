@@ -12,6 +12,8 @@
   * [Relativa Layout]()
   * [Constraint Layout]()
   * [Frame Layout]() 
+* [Scroll View]()
+* 
 * [padding과 margin](https://velog.io/@kang9366/padding과-margin)
 * [match_parent와 wrap_content]()
 * [dp, dpi](https://velog.io/@kang9366/길이-단위)
