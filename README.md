@@ -6,15 +6,16 @@
 * [상속과 인터페이스](https://velog.io/@kang9366/코틀린-상속과-인터페이스)
 
 ## Android UI
-* [xml 함수](https://velog.io/@jjung/AndroidManifest.xml-이란-cczwkwxi)
+* [xml 함수](https://velog.io/@kang9366/xml-함수)
 * [layout]()
   * [Linear Layout]()
   * [Relativa Layout]()
   * [Constraint Layout]()
   * [Frame Layout]() 
-* [padding과 margin]()
+* [padding과 margin](https://velog.io/@kang9366/padding과-margin)
 * [match_parent와 wrap_content]()
 * [dp, dpi](https://velog.io/@kang9366/길이-단위)
+* [gravity, layout_gravity](https://velog.io/@kang9366/gravity와-layoutgravity)
 
 ## Android
 * [안드로이드 생명주기]()
