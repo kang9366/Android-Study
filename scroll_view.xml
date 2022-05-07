@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+<!--    scroll view는 하나의 자식밖에 갖지 못한다
+ 하나의 layout을 자식으로 설정한 뒤 그 안에 여러개의 component를 추가-->
+<!--    세로로 스크롤-->
+    <ScrollView
+        android:layout_weight="1"
+        android:layout_width="match_parent"
+        android:layout_height="400dp">
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Normal Scroll View"
+                android:layout_gravity="right"/>
+            <TextView
+                android:layout_width="150dp"
+                android:layout_height="150dp"
+                android:background="@color/black"/>
+
+            <TextView
+                android:layout_width="150dp"
+                android:layout_height="150dp"
+                android:background="@color/purple_200" />
+
+            <TextView
+                android:layout_width="150dp"
+                android:layout_height="150dp"
+                android:background="@color/teal_200"/>
+            <TextView
+                android:layout_width="150dp"
+                android:layout_height="150dp"
+                android:background="#3F51B5"/>
+            <TextView
+                android:layout_width="150dp"
+                android:layout_height="150dp"
+                android:background="#FF9800"/>
+        </LinearLayout>
+    </ScrollView>
+
+<!--    가로로 스크롤-->
+    <HorizontalScrollView
+        android:layout_weight="1"
+        android:layout_width="match_parent"
+        android:layout_height="400dp">
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+            <TextView
+                android:layout_width="150dp"
+                android:layout_height="150dp"
+                android:background="@color/black"/>
+
+            <TextView
+                android:layout_width="150dp"
+                android:layout_height="150dp"
+                android:background="@color/purple_200" />
+
+            <TextView
+                android:layout_width="150dp"
+                android:layout_height="150dp"
+                android:background="@color/teal_200"/>
+            <TextView
+                android:layout_width="150dp"
+                android:layout_height="150dp"
+                android:background="#3F51B5"/>
+            <TextView
+                android:layout_width="150dp"
+                android:layout_height="150dp"
+                android:background="#FF9800"/>
+        </LinearLayout>
+    </HorizontalScrollView>
+
+</LinearLayout>
