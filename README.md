@@ -1,5 +1,8 @@
+## 안드로이드 공부할 때 도움이 되는 곳
+
 [안드로이드 개발자용 공식문서](https://developer.android.com)  
 [안드로이드 스튜디오 단축키](https://developer.android.com/studio/intro/keyboard-shortcuts?hl=ko)
+[ㅇㅇ](https://kairo96.gitbooks.io/android/content/ch2.1.html)
 
 ## Kotlin
 * [컬렉션]()
