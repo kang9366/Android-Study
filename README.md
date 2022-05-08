@@ -14,11 +14,11 @@
   * [Constraint Layout]()
   * [Frame Layout]() 
 * [Scroll View]()
-* 
 * [padding과 margin](https://velog.io/@kang9366/padding과-margin)
 * [match_parent와 wrap_content]()
 * [dp, dpi](https://velog.io/@kang9366/길이-단위)
 * [gravity, layout_gravity](https://velog.io/@kang9366/gravity와-layoutgravity)
+* [style.xml을 활용해 design theme 저장](https://hu-coding.tistory.com/47)
 
 ## Android Essential
 * [Intent]()
