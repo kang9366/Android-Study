@@ -1,4 +1,5 @@
 [안드로이드 개발자용 공식문서](https://developer.android.com)
+[안드로이드 스튜디오 단축키](https://developer.android.com/studio/intro/keyboard-shortcuts?hl=ko)
 
 ## Kotlin
 * [컬렉션]()
