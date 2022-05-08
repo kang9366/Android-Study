@@ -19,6 +19,10 @@
 * [dp, dpi](https://velog.io/@kang9366/길이-단위)
 * [gravity, layout_gravity](https://velog.io/@kang9366/gravity와-layoutgravity)
 
+## Android Essential
+* [Intent]()
+* 
+
 ## Android 구성
 * [AndroidManifest.xml](https://velog.io/@jjung/AndroidManifest.xml-이란-cczwkwxi)
 * [build.gradle]()
