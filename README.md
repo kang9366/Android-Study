@@ -30,3 +30,5 @@
 * [gradle-wrapper.properties]()
 * [proguard-rules.pro]()
 * [안드로이드 생명주기]()
+* [안드로이드 주요 용어]()
+* [안드로이드 4대 구성요소]()
