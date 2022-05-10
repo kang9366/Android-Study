@@ -25,7 +25,6 @@ fun invokeLambda(lambda: (Double) -> Boolean): Boolean{
     return lambda(5.37)
 }
 
-
 //확장함수
 val pizzaIsGreat : String.() -> String = {
     this + "Pizza is the best!"
