@@ -96,5 +96,5 @@ LinearLayout : 수직 or 수평으로 component를 쌓아가는 디자인 방식
     match_parent : 부모의 가로, 세로폭에 크기를 맞춘다.(최상위 클래스는 디바이스의 크기에 맞춘다.)
     wrap_content : 내용물을 감쌀 수 있는 가로폭과 세로폭을 크기로 설정한다.
     -->
-
+ 
 </LinearLayout>
