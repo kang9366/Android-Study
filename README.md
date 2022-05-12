@@ -25,6 +25,7 @@
 * [style.xml을 활용해 design theme 저장](https://hu-coding.tistory.com/47)
 * [ImageView 동그랗게 만들기](https://velog.io/@kang9366/CircleImageView)
 * [TextView 속성](https://velog.io/@kang9366/TextView-속성)
+* [View click effect](https://velog.io/@kang9366/View-click-effect)
 
 ## Android Essential
 * [Intent]()
