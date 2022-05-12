@@ -20,6 +20,8 @@
 * [dp, dpi](https://velog.io/@kang9366/길이-단위)
 * [gravity, layout_gravity](https://velog.io/@kang9366/gravity와-layoutgravity)
 * [style.xml을 활용해 design theme 저장](https://hu-coding.tistory.com/47)
+* [ImageView 동그랗게 만들기](https://velog.io/@kang9366/CircleImageView)
+* [TextView 속성](https://velog.io/@kang9366/TextView-속성)
 
 ## Android Essential
 * [Intent]()
