@@ -26,6 +26,7 @@
 * [ImageView 동그랗게 만들기](https://velog.io/@kang9366/CircleImageView)
 * [TextView 속성](https://velog.io/@kang9366/TextView-속성)
 * [View click effect](https://velog.io/@kang9366/View-click-effect)
+* [title bar 제거](https://velog.io/@kang9366/Title-baraction-bar-제거)
 
 ## Android Essential
 * [Intent]()
