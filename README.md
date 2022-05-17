@@ -35,7 +35,7 @@
 
 ## Android Essential
 * [Intent]()
-* 
+* [SHA-1](https://velog.io/@kang9366/디버그-서명-인증서-SHA-1-확인)
 
 ## Android 구성
 * [AndroidManifest.xml](https://velog.io/@jjung/AndroidManifest.xml-이란-cczwkwxi)
