@@ -35,7 +35,8 @@
 * [title bar 제거](https://velog.io/@kang9366/Title-baraction-bar-제거)
 
 ## Android Essential
-* [Intent]()
+* [Intent](https://kang9366.tistory.com/51?category=1284760)
+* [Fragment](https://kang9366.tistory.com/55)
 * [SHA-1](https://velog.io/@kang9366/디버그-서명-인증서-SHA-1-확인)
 
 ## Android 구성
