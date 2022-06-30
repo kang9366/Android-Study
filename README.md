@@ -10,7 +10,8 @@
 
 
 ## Kotlin
-* [코틀리 기초 문법 정리](https://github.com/kang9366/Android_Study/wiki/코틀린-문법-정리)
+* [코틀린 공식문서](https://developer.android.com/kotlin/style-guide?hl=ko) 
+* [코틀린 기초 문법 정리](https://github.com/kang9366/Android_Study/wiki/코틀린-문법-정리)
 * [컬렉션]()
 * [생성자(주생성자,constructor,init)]()
 * [상속과 인터페이스](https://velog.io/@kang9366/코틀린-상속과-인터페이스)
@@ -48,4 +49,3 @@
 * [안드로이드 생명주기]()
 * [안드로이드 주요 용어]()
 * [안드로이드 4대 구성요소](https://velog.io/@kang9366/안드로이드-4대-구성요소)
-c
