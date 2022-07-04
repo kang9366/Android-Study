@@ -17,5 +17,4 @@ fun main(){
     val cal = Calculator()
     val a = cal.plus(1, 2)
     println(a)
-
 }
