@@ -41,7 +41,7 @@
 * [SHA-1](https://kang9366.tistory.com/48)
 
 ## Android 구성
-* [AndroidManifest.xml](https://velog.io/@jjung/AndroidManifest.xml-이란-cczwkwxi)
+* [AndroidManifest.xml](https://kang9366.tistory.com/23?category=1284760)
 * [build.gradle]()
 * [res]()
 * [gradle-wrapper.properties]()
