@@ -38,7 +38,7 @@
 ## Android Essential
 * [Intent](https://kang9366.tistory.com/51?category=1284760)
 * [Fragment](https://kang9366.tistory.com/55)
-* [SHA-1](https://velog.io/@kang9366/디버그-서명-인증서-SHA-1-확인)
+* [SHA-1](https://kang9366.tistory.com/48)
 
 ## Android 구성
 * [AndroidManifest.xml](https://velog.io/@jjung/AndroidManifest.xml-이란-cczwkwxi)
