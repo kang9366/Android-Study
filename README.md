@@ -6,11 +6,10 @@
 * [안드로이드 스튜디오 단축키](https://developer.android.com/studio/intro/keyboard-shortcuts?hl=ko)
 * [아이콘](https://www.flaticon.com/kr/)
 * [파스텔 색상 모음](https://flatuicolors.com)
+* [코틀린 공식문서](https://developer.android.com/kotlin/style-guide?hl=ko) 
 * [ㅇㅇ](https://kairo96.gitbooks.io/android/content/ch2.1.html)
 
-
 ## Kotlin
-* [코틀린 공식문서](https://developer.android.com/kotlin/style-guide?hl=ko) 
 * [코틀린 기초 문법 정리](https://github.com/kang9366/Android_Study/wiki/코틀린-문법-정리)
 * [컬렉션]()
 * [생성자(주생성자,constructor,init)]()
@@ -21,9 +20,10 @@
 * [xml 함수](https://velog.io/@kang9366/xml-함수)
 * [layout]()
   * [Linear Layout]()
-  * [Relativa Layout]()
+  * [Relative Layout]()
   * [Constraint Layout]()
   * [Frame Layout]() 
+  * [Grid Layout]()
 * [Scroll View]()
 * [padding과 margin](https://velog.io/@kang9366/padding과-margin)
 * [match_parent와 wrap_content]()
