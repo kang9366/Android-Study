@@ -37,6 +37,7 @@
 
 ## Android Essential
 * [Intent](https://kang9366.tistory.com/51?category=1284760)
+* [RecyclerView](https://kang9366.tistory.com/114)
 * [Fragment](https://kang9366.tistory.com/55)
 * [SHA-1](https://kang9366.tistory.com/48)
 
