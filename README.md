@@ -5,11 +5,10 @@
 * [안드로이드 개발자용 공식문서](https://developer.android.com)
 * [안드로이드 스튜디오 단축키](https://developer.android.com/studio/intro/keyboard-shortcuts?hl=ko)
 * [Jetpack](https://developer.android.com/jetpack/compose/documentation)
-* [코틀린 공식문서](https://developer.android.com/kotlin/style-guide?hl=ko) 
+* [코틀린 공식문서](https://developer.android.com/kotlin/style-guide?hl=ko)
+* [안드로이드 개발 기초 정리](https://kairo96.gitbooks.io/android/content/ch2.1.html)
 * [아이콘](https://www.flaticon.com/kr/)
 * [파스텔 색상 모음](https://flatuicolors.com)
-
-* [ㅇㅇ](https://kairo96.gitbooks.io/android/content/ch2.1.html)
 
 ## Kotlin
 * [코틀린 기초 문법 정리](https://github.com/kang9366/Android_Study/wiki/코틀린-문법-정리)
