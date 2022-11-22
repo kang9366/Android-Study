@@ -20,8 +20,8 @@
 ## Android UI
 * [xml 함수](https://velog.io/@kang9366/xml-함수)
 * [layout]()
-  * [Linear Layout]()
-  * [Relative Layout]()
+  * [Linear Layout](https://kang9366.tistory.com/117)
+  * [Relative Layout](https://kang9366.tistory.com/118)
   * [Constraint Layout]()
   * [Frame Layout]() 
   * [Grid Layout]()
