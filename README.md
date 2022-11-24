@@ -16,6 +16,11 @@
 * [생성자(주생성자,constructor,init)]()
 * [상속과 인터페이스](https://velog.io/@kang9366/코틀린-상속과-인터페이스)
 * [Null Safety](https://velog.io/@kang9366/Null-Safety)
+* [늦은 초기화](https://kang9366.tistory.com/57)
+* [open](https://kang9366.tistory.com/116)
+* [스코프 함수](https://kang9366.tistory.com/108)
+* [data class](https://kang9366.tistory.com/123)
+* [빈 문자열 확인](https://kang9366.tistory.com/58)
 
 ## Android UI
 * [xml 함수](https://velog.io/@kang9366/xml-함수)
