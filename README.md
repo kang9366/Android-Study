@@ -2,10 +2,10 @@
 <center><img src="https://roadmap.sh/roadmaps/android/roadmap.svg" width=700 height=900/></center>
 
 ## 안드로이드 개발 참고 사이트
-* [안드로이드 개발자용 공식문서](https://developer.android.com)
-* [안드로이드 스튜디오 단축키](https://developer.android.com/studio/intro/keyboard-shortcuts?hl=ko)
-* [Jetpack](https://developer.android.com/jetpack/compose/documentation)
 * [코틀린 공식문서](https://developer.android.com/kotlin/style-guide?hl=ko)
+* [안드로이드 공식문서](https://developer.android.com)
+* [안드로이드 스튜디오 단축키](https://developer.android.com/studio/intro/keyboard-shortcuts?hl=ko)
+* [Jetpack Compose](https://developer.android.com/jetpack/compose/documentation)
 * [안드로이드 개발 기초 정리](https://kairo96.gitbooks.io/android/content/ch2.1.html)
 * [아이콘](https://www.flaticon.com/kr/)
 * [파스텔 색상 모음](https://flatuicolors.com)
@@ -16,12 +16,17 @@
 * [생성자(주생성자,constructor,init)]()
 * [상속과 인터페이스](https://velog.io/@kang9366/코틀린-상속과-인터페이스)
 * [Null Safety](https://velog.io/@kang9366/Null-Safety)
+* [늦은 초기화](https://kang9366.tistory.com/57)
+* [open](https://kang9366.tistory.com/116)
+* [스코프 함수](https://kang9366.tistory.com/108)
+* [data class](https://kang9366.tistory.com/123)
+* [빈 문자열 확인](https://kang9366.tistory.com/58)
 
 ## Android UI
 * [xml 함수](https://velog.io/@kang9366/xml-함수)
 * [layout]()
-  * [Linear Layout]()
-  * [Relative Layout]()
+  * [Linear Layout](https://kang9366.tistory.com/117)
+  * [Relative Layout](https://kang9366.tistory.com/118)
   * [Constraint Layout]()
   * [Frame Layout]() 
   * [Grid Layout]()
@@ -51,4 +56,3 @@
 * [안드로이드 생명주기]()
 * [안드로이드 주요 용어]()
 * [안드로이드 4대 구성요소](https://velog.io/@kang9366/안드로이드-4대-구성요소)
-
