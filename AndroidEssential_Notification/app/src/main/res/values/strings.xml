@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AndroidEssential_Notification</string>
+    <string name="KEY_TEXT_REPLY">key_text_reply</string>
+</resources>
