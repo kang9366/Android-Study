@@ -1,5 +1,5 @@
 ## 안드로이드 개발 로드맵
-<center><img src="https://roadmap.sh/roadmaps/android/roadmap.svg" width=700 height=900/></center>
+<p align='center'><img src="https://roadmap.sh/roadmaps/android/roadmap.svg" width=700 height=900/></p>
 
 ## 안드로이드 개발 참고 사이트
 * [코틀린 공식문서](https://developer.android.com/kotlin/style-guide?hl=ko)
@@ -35,14 +35,8 @@
   * [EditText](https://velog.io/@kang9366/액티비티-전환)
   * [Button](https://velog.io/@kang9366/뒤로가기-두번-눌러서-앱-종료)
   * [Scroll View](https://velog.io/@kang9366/안드로이드-4대-구성요소)
-
 * [안드로이드 크기 단위](https://velog.io/@kang9366/AndroidManifest.xml)
-* [gravity, layout_gravity](https://velog.io/@kang9366/gravity와-layoutgravity)
-* [style.xml을 활용해 design theme 저장](https://hu-coding.tistory.com/47)
-* [ImageView 동그랗게 만들기](https://velog.io/@kang9366/CircleImageView)
-* [TextView 속성](https://velog.io/@kang9366/TextView-속성)
-* [View click effect](https://velog.io/@kang9366/View-click-effect)
-* [title bar 제거](https://velog.io/@kang9366/Title-baraction-bar-제거)
+
 
 ## Android Essential
 * [AndroidManifest](https://velog.io/@kang9366/길이-단위)
