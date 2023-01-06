@@ -23,17 +23,20 @@
 * [빈 문자열 확인](https://kang9366.tistory.com/58)
 
 ## Android UI
-* [xml 함수](https://velog.io/@kang9366/xml-함수)
-* [layout]()
+* Layout
   * [Linear Layout](https://kang9366.tistory.com/117)
   * [Relative Layout](https://kang9366.tistory.com/118)
   * [Constraint Layout]()
   * [Frame Layout]() 
   * [Grid Layout]()
-* [Scroll View]()
-* [padding과 margin](https://velog.io/@kang9366/padding과-margin)
-* [match_parent와 wrap_content]()
-* [dp, dpi](https://velog.io/@kang9366/길이-단위)
+* View
+  * [TextView](https://velog.io/@kang9366/View-click-effect)
+  * [ImageView](https://velog.io/@kang9366/Title-baraction-bar-제거)
+  * [EditText](https://velog.io/@kang9366/액티비티-전환)
+  * [Button](https://velog.io/@kang9366/뒤로가기-두번-눌러서-앱-종료)
+  * [Scroll View](https://velog.io/@kang9366/안드로이드-4대-구성요소)
+
+* [안드로이드 크기 단위](https://velog.io/@kang9366/AndroidManifest.xml)
 * [gravity, layout_gravity](https://velog.io/@kang9366/gravity와-layoutgravity)
 * [style.xml을 활용해 design theme 저장](https://hu-coding.tistory.com/47)
 * [ImageView 동그랗게 만들기](https://velog.io/@kang9366/CircleImageView)
@@ -42,6 +45,8 @@
 * [title bar 제거](https://velog.io/@kang9366/Title-baraction-bar-제거)
 
 ## Android Essential
+* [AndroidManifest](https://velog.io/@kang9366/길이-단위)
+* [Gradle Scripts](https://velog.io/@kang9366/xml-함수)
 * [Intent](https://kang9366.tistory.com/51?category=1284760)
 * [RecyclerView](https://kang9366.tistory.com/114)
 * [Fragment](https://kang9366.tistory.com/55)
