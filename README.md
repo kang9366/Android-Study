@@ -36,7 +36,7 @@
   * [Button](https://velog.io/@kang9366/뒤로가기-두번-눌러서-앱-종료)
   * [Scroll View](https://velog.io/@kang9366/안드로이드-4대-구성요소)
 * [안드로이드 크기 단위](https://velog.io/@kang9366/AndroidManifest.xml)
-
+* [Resources](https://velog.io/@kang9366/디버그-서명-인증서-SHA-1-확인)
 
 ## Android Essential
 * [AndroidManifest](https://velog.io/@kang9366/길이-단위)
