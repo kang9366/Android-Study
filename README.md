@@ -45,13 +45,3 @@
 * [RecyclerView](https://kang9366.tistory.com/114)
 * [Fragment](https://kang9366.tistory.com/55)
 * [SHA-1](https://kang9366.tistory.com/48)
-
-## Android 구성
-* [AndroidManifest.xml](https://kang9366.tistory.com/23?category=1284760)
-* [build.gradle]()
-* [res]()
-* [gradle-wrapper.properties]()
-* [proguard-rules.pro]()
-* [안드로이드 생명주기]()
-* [안드로이드 주요 용어]()
-* [안드로이드 4대 구성요소](https://velog.io/@kang9366/안드로이드-4대-구성요소)
