@@ -6,13 +6,15 @@
     android:layout_height="match_parent"
     android:orientation="vertical"
     tools:context=".MainActivity"
-    android:gravity="center">
+    android:gravity="center"
+    android:onClick="hideKeyboard">
 
     <LinearLayout
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:orientation="horizontal">
         <EditText
+            android:hint="Github ID 입력"
             android:id="@+id/input_id"
             android:layout_width="200dp"
             android:layout_height="wrap_content"
