@@ -1,4 +1,4 @@
-package com.sgkang.androidessential_permission
+package com.sgkang.android_permission
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4

@@ -1,4 +1,4 @@
-package com.sgkang.androidessential_permission
+package com.sgkang.android_permission
 
 import org.junit.Test
 
