@@ -64,4 +64,3 @@
 * [ViewBinding](https://velog.io/@kang9366/Android-ViewBinding)
 * [DataBinding](https://velog.io/@kang9366/Android-DataBinding)
 * [ViewPager](https://velog.io/@kang9366/Android-ViewPager)
-.
