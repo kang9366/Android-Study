@@ -7,7 +7,7 @@
 * [안드로이드 스튜디오 단축키](https://developer.android.com/studio/intro/keyboard-shortcuts?hl=ko)
 * [Jetpack Compose](https://developer.android.com/jetpack/compose/documentation)
 * [안드로이드 개발 기초 정리](https://kairo96.gitbooks.io/android/content/ch2.1.html)
-* [아이콘](https://www.flaticon.com/kr/)
+* [아이콘 모음](https://www.flaticon.com/kr/)
 * [파스텔 색상 모음](https://flatuicolors.com)
 
 ## Kotlin
