@@ -35,6 +35,7 @@
   * [EditText](https://velog.io/@kang9366/Android-EditText)
   * [Button](https://velog.io/@kang9366/Android-Button)
   * [Scroll View](https://velog.io/@kang9366/Android-ScrollView)
+  * [Spinner](https://velog.io/@kang9366/Android-Spinner)
 * [안드로이드 크기 단위](https://velog.io/@kang9366/Android-안드로이드-크기-단위)
 * [Resources](https://velog.io/@kang9366/Android-Resource)
 
