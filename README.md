@@ -42,22 +42,23 @@
 ## Android Essential
 * [AndroidManifest](https://velog.io/@kang9366/Android-AndroidManifest)
 * [Gradle Scripts](https://velog.io/@kang9366/Android-Gradle-Scripts)
-* [안드로이드 4대 구성요소](https://velog.io/@kang9366/Android-안드로이드-4대-구성요소)
-* [Activity](https://velog.io/@kang9366/Android-Activity)
-* [Content Provider](https://velog.io/@kang9366/Android-Conent-Provider)
-* [Broadcast Receiver](https://velog.io/@kang9366/Android-Broadcast-Receiver)
-* [Service](https://velog.io/@kang9366/Android-Service)
-* [Intent](https://velog.io/@kang9366/Android-Intent)
-* [RecyclerView](https://kang9366.tistory.com/114)
 * [Permission](https://velog.io/@kang9366/Android-Permission)
 * [Action Bar](https://velog.io/@kang9366/Android-Action-bar)
 * [유저 알림](https://velog.io/@kang9366/Android-유저-알림)
 * [Notification](https://velog.io/@kang9366/Android-Notification)
 * [SharedPreference](https://velog.io/@kang9366/Android-SharedPreference)
 * [SQLite](https://velog.io/@kang9366/Android-SQLite)
-* [SHA-1](https://kang9366.tistory.com/48)
+* [SHA-1](https://velog.io/@kang9366/Android-SHA-1)
 * [Retrofit2](https://velog.io/@kang9366/Android-Retrofit2)
 * [Glide](https://velog.io/@kang9366/Android-Glide)
+
+## Android Component
+* [안드로이드 4대 구성요소](https://velog.io/@kang9366/Android-안드로이드-4대-구성요소)
+* [Activity](https://velog.io/@kang9366/Android-Activity)
+* [Content Provider](https://velog.io/@kang9366/Android-Conent-Provider)
+* [Broadcast Receiver](https://velog.io/@kang9366/Android-Broadcast-Receiver)
+* [Service](https://velog.io/@kang9366/Android-Service)
+* [Intent](https://velog.io/@kang9366/Android-Intent)
 
 ## Jetpack
 * [Fragment](https://velog.io/@kang9366/Android-Fragment)
