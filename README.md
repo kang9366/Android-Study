@@ -49,7 +49,6 @@
 * [Service](https://velog.io/@kang9366/Android-Service)
 * [Intent](https://velog.io/@kang9366/Android-Intent)
 * [RecyclerView](https://kang9366.tistory.com/114)
-* [Fragment](https://velog.io/@kang9366/Android-Fragment)
 * [Permission](https://velog.io/@kang9366/Android-Permission)
 * [Action Bar](https://velog.io/@kang9366/Android-Action-bar)
 * [유저 알림](https://velog.io/@kang9366/Android-유저-알림)
@@ -61,6 +60,7 @@
 * [Glide](https://velog.io/@kang9366/Android-Glide)
 
 ## Jetpack
+* [Fragment](https://velog.io/@kang9366/Android-Fragment)
 * [RecyclerView](https://velog.io/@kang9366/Android-RecyclerView)
 * [ViewBinding](https://velog.io/@kang9366/Android-ViewBinding)
 * [DataBinding](https://velog.io/@kang9366/Android-DataBinding)
