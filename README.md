@@ -9,6 +9,7 @@
 * [안드로이드 개발 기초 정리](https://kairo96.gitbooks.io/android/content/ch2.1.html)
 * [아이콘 모음](https://www.flaticon.com/kr/)
 * [파스텔 색상 모음](https://flatuicolors.com)
+* [유용한 라이브러리 모음](https://android-arsenal.com)
 
 ## Kotlin
 * [코틀린 기초 문법 정리](https://github.com/kang9366/Android_Study/wiki/코틀린-문법-정리)
